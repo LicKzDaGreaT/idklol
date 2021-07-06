@@ -1,0 +1,8 @@
+{
+    "token": " your token here ",
+    "prefix": ".",
+    "__comment": " Type 1 = Copy to existent guild - Type 2 = Create a new guild",
+    "type": "1",
+	"__comment": " if you choose the type 1, insert the target guild id ",
+    "target": "825916760950833242"
+}
